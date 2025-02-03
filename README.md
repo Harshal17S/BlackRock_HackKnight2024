@@ -1,7 +1,7 @@
 # BlackRock HackKnight2024
 
 ## Overview
-This repository is the home of our project for the BlackRock HackKnight2024. Our project aims to address a specific challenge (describe the challenge briefly, e.g., financial data analysis, algorithmic trading solutions, etc.) presented in the hackathon, leveraging innovative technologies to deliver effective and scalable solutions.
+This repository is the home of our project for the BlackRock HackKnight2024. Our project aims to address a specific challenge  financial data analysis, algorithmic trading solutions presented in the hackathon, leveraging innovative technologies to deliver effective and scalable solutions.
 
 ## Features
 - **Feature 1**:  Real-time data processing.
@@ -27,18 +27,7 @@ npm install
 Install Python dependencies
 pip install -r requirements.txt
 
-## Usage
-Provide instructions on how to run the project:
 
-### Start the frontend
-npm start
-
-### Run the backend server
-python app.py
-
-
-## How It Works
-Explain briefly how the project works, including any architectural details or flowcharts that might help in understanding the project's structure and flow.
 
 ## Contributing
 We welcome contributions! Please follow the steps below if you're interested in contributing:
